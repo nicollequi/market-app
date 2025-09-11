@@ -20,7 +20,7 @@ firstname,
 lastname, 
 mobile_number,
 email,
-password
+password 
 );
 
 VALUES (
