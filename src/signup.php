@@ -43,7 +43,7 @@
    '$m_number',
    '$id_number',
    '$e_mail',
-   '$enc_pass'
+   '$p_wd'
   )
   ";
    //step4.execute query
